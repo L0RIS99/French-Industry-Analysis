@@ -38,7 +38,7 @@ Four datasets from INSEE (France's national statistics institute), joined on the
 | `name_geographic_information.csv` | 36,840 | Administrative and geographic reference data (region, department, coordinates) |
 | `population.csv` | 8.5M+ | Population counts per commune, by age group, sex, and household type |
 
-## 🛠️ Stack
+## 🛠️ Tools
 
 - **Python** (pandas) — data cleaning, exploration, consistency checks
 - **Power BI** (DAX) — interactive dashboard, correlation analysis, geographic visualization
